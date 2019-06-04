@@ -60,6 +60,10 @@ h1, h2, h3, h4, h5, h6 {
   background: #8C7676;
 }
 
+.col-md-3 {
+    width: 33.33%;
+}
+
 .navbar-collapse {
   border: none !important;
 }
