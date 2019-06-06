@@ -1,0 +1,11 @@
+Team members:
+Maddie Bright, mtb345, Anticipated Graduation year: 2023
+Lia Johnson, lej42, Anticipated Graduation year: 2023
+Neil Kanakia, ndk43, Anticipated Graduation year: 2023
+Adeeb Abbas, aa4239, Anticipated Graduation year: 2023
+Abu Zaid Khan, ak3776, Anticipated Graduation year: 2023
+
+Abstract:
+	How many of you have been in a situation when you need to go to the toilet but don’t know where to find one? This website will help you find the nearest toilets, it will have ratings to show how crowded/ clean they are. 
+	Our Motivation for this project is because we think it can solve a problem that everyone has on a daily basis. Everyone has moments where they have to go to the bathroom while they are out in public, but you don’t simply want to use any bathroom that could be nasty. With this app that problem would be solved. Our primary target audience will be location based. We are staring out in the University City area of Philadelphia, with the overall goal being to eventually branch out to other states and possibly other countries. 
+	Our project is a website that uses Google Maps APIs to display nearby toilets to users to help them find a bathroom. Users can submit toilets through a Google Form, which will be verified to confirm that they exist before they are added to the map. Users can also rate toilets through a Google Form, which is used to help keep content about the toilets relative and to reduce trolling. Multiple ways to contact the developers are provided on the website in case a user has questions. 

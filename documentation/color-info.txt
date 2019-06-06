@@ -1,0 +1,99 @@
+colors-info.txt
+Provides a list of suggested color 
+schemes for our app
+Madeline Bright
+Version 1, created 3:38 5/12/2019
+
+These are color schemes from 
+award-winning websites listed here 
+https://visme.co/blog/website-color-schemes/.
+
+Each color scheme has a note explaining 
+its use and I will list the ones I 
+recommend for our app below and a reason 
+why.
+
+#4.  Cool and Fresh.  It is clean and 
+refreshing, the way a user will want a 
+restroom to be.  It is also very 
+calming-looking and reminiscent of 
+water.  The color blue is known to have 
+this effect, as I've found in research 
+for previous design projects.
+
+#5 Audactious and Vibrant.  Again, uses 
+those blue colors.  However, the coral 
+also draws the user's eyes to certain 
+locations on the screen and conveys a 
+sense of urgency.
+
+#10 Contemporary and Bold.  Associated 
+with luxury and also minimalism 
+according to the website, which are 
+features a user may want in a restroom.
+
+#15 Elegant Yet Approchable.  
+Conservative but with elements that 
+pop--may work for a more neutral-looking 
+design scheme, or if we want the rest of 
+the app to match the google maps colors.
+
+#17 Innovative and Audacious.  Uses a 
+darker color as the background, which 
+market research says users prefer and 
+also very eye-catching with different 
+colors that we can use to represent 
+different things.
+
+#19 Minimal Yet Warm.  Another option 
+for a more conservative site with 
+eye-popping color.
+
+#21 Clean and Energetic.  Meant to 
+evoke peace and positive emotions, and 
+we want to make sure users go into their 
+bathroom experiences feeling 
+comfortable.
+
+#27 Gorgeous Contrast.  Greens are good 
+for drawing the user's eye to elements 
+people will want to interact with and 
+will look good as the background for our 
+logo.
+
+#28 Effective Accent Colors.  Same as 
+above, but with browns, purples, and 
+yellow.
+
+#30 Close to Nature.  Conveys stability 
+and reliability, which are things people 
+want in their toilets.
+
+#37 Cheerful and Energetic.  We want 
+people to be invested in going to one of 
+the toilets on our app, so why not use a 
+color scheme that shows that?
+
+#40 Modern and Minimalist.  
+Eye-catching.
+
+#43 Eclectic and Peaceful.  Makes the 
+user feel soothed and at-home, preparing 
+them for a comfortable bathroom 
+experience.
+
+#44 Classy and Tradition.  Has a sense 
+of both fun and serious.
+
+#46 Corporate and Serious.  Has a lot of 
+blues and conveys stability and 
+seriousness.
+
+#48 Eye-Catching and Sleek.  Uses a lot 
+of accent colors.
+
+#50 Lively yet Soothing.  Conveys our 
+energy as developers but also a soothing 
+feeling for the customers, making them 
+feel like we're responding to their 
+needs.
